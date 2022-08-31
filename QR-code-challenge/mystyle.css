@@ -39,13 +39,13 @@ span {
     font-family: 'Outfit', sans-serif;
 }
 
-.attribution {
+footer {
     position: absolute;
     font-size: 11px;
     top: 90%;
     left: 45%;
 }
 
-.attribution a {
+footer a {
     color: hsl(228, 45%, 44%);
 }
