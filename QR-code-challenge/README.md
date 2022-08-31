@@ -11,6 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  -[Credits](#credits)
 - [Author](#author)
 
 
@@ -20,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
  A perfect first challenge if you're new to HTML and CSS. The card layout doesn't shift, so it's ideal if you haven't learned about building responsive layouts yet.
 
 ## Screenshot
-![Screenshot]![](images/Screenshot.jpg)
+![Screenshot](Screenshot.jpg)
 
 ### Links
 
@@ -44,6 +45,14 @@ I need to fix more knowledge about margin and padding, I think.
 Work more on divs.
 
 Learn about Flexbox and Grid.
+
+## Helpful Feedbacks
+
+- Frontend Mentor -[@PhoenixDev22](https://www.frontendmentor.io/profile/PhoenixDev22)
+- Frontend Mentor -[@correlucas](https://www.frontendmentor.io/profile/correlucas)
+- Frontend Mentor -[@imadbg01](https://www.frontendmentor.io/profile/imadbg01)
+- Frontend Mentor -[@AdrianoEscarabote](https://www.frontendmentor.io/profile/AdrianoEscarabote)
+These feedbacks was really pretty appreciated! Thank you! 
 
 
 ## Author
