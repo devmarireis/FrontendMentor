@@ -53,7 +53,7 @@ Learn about Flexbox and Grid.
 - Frontend Mentor -[@imadbg01](https://www.frontendmentor.io/profile/imadbg01)
 - Frontend Mentor -[@AdrianoEscarabote](https://www.frontendmentor.io/profile/AdrianoEscarabote)
 
-These feedbacks was really pretty appreciated! Thank you! 
+These feedbacks was really appreciated! Thank you! 
 
 ## Author
 
